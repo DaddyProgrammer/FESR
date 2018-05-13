@@ -1600,12 +1600,12 @@ ul
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span lang=EN>##COMP 296</span></p>
+<p class=MsoNormal><span lang=EN>COMP 296</span></p>
 
-<p class=MsoNormal><span lang=EN>##Capstone Project Application Manual</span></p>
+<p class=MsoNormal><span lang=EN>Capstone Project Application Manual</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
-normal'><u><span lang=EN style='font-size:18.0pt;line-height:115%'>#FISER
+normal'><u><span lang=EN style='font-size:18.0pt;line-height:115%'>FESER
 Application Manual<o:p></o:p></span></u></b></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN><o:p>&nbsp;</o:p></span></p>
