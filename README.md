@@ -1604,6 +1604,8 @@ ul
 
 <p class=MsoNormal><span lang=EN>Capstone Project Application Manual</span></p>
 
+<p class=MsoNormal><span lang=EN>Note: Table Index out of order due to .docx --> .htm conversion</span></p>
+
 <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
 normal'><u><span lang=EN style='font-size:18.0pt;line-height:115%'>FESR
 Application Manual<o:p></o:p></span></u></b></p>
