@@ -2,9 +2,8 @@
  * Pizza POS Menu & Database
  * Alex Reyes - COMP 296
  * Captsone Project
- * Status: Work-in-progress
- * Version 1.2.0
- * Updated: 5/2/10
+ * Version 2.0
+ * Updated: 5/10/10
  * Status: Completed
  */
 package db;
